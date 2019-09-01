@@ -1,0 +1,25 @@
+# packages in environment at C:\Users\ASUS\.conda\envs\authenticate:
+#
+# Name                    Version                   Build  Channel
+astroid                   2.2.5                    py37_0  
+ca-certificates           2019.5.15                     1  
+certifi                   2019.6.16                py37_1  
+colorama                  0.4.1                    py37_0  
+django                    2.2.1                    py37_0  
+isort                     4.3.21                   py37_0  
+lazy-object-proxy         1.4.2            py37he774522_0  
+mccabe                    0.6.1                    py37_1  
+openssl                   1.1.1c               he774522_1  
+pip                       19.2.2                   py37_0  
+pylint                    2.3.1                    py37_0  
+python                    3.7.4                h5263a28_0  
+pytz                      2019.2                     py_0  
+setuptools                41.0.1                   py37_0  
+six                       1.12.0                   py37_0  
+sqlite                    3.29.0               he774522_0  
+sqlparse                  0.3.0                    pypi_0    pypi
+vc                        14.1                 h0510ff6_4  
+vs2015_runtime            14.15.26706          h3a45250_4  
+wheel                     0.33.4                   py37_0  
+wincertstore              0.2                      py37_0  
+wrapt                     1.11.2           py37he774522_0  
